@@ -1,2 +1,4 @@
 I am from another branch named as branch1
 
+added my new line
+******
